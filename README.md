@@ -59,11 +59,10 @@ Link: https://www.kaggle.com/datasets/sarcasmos/ai-society
 
 ---
 ## DashBoard Overview 
-<img width="767" height="446" alt="image" src="https://github.com/user-attachments/assets/82b9cdbd-83a3-45e4-81a0-eb43691ca350" />
 
+<img width="1325" height="807" alt="image" src="https://github.com/user-attachments/assets/e1b7c487-decc-4211-bff4-cd013ca7136e" />
 
-<img width="777" height="525" alt="image" src="https://github.com/user-attachments/assets/31fe6269-88b7-481b-b06a-11a0b4fcae5f" />
-
+<img width="1056" height="705" alt="image" src="https://github.com/user-attachments/assets/d58bfc55-295d-4b03-a681-7169d1603f1a" />
 
 📊 Performance Insights:
 
